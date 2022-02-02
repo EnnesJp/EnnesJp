@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/joao-pedro-ennes/"><i>João Pedro Ennes</i></a> 😃️</h1>
-  <p align="center">Sou estudante de Sistemas de Informação da UFMG e atualmente trabalho como Desenvolvedor na TagPlus.</h2>
+  <p align="center">Sou estudante de Sistemas de Informação da <a href="https://ufmg.br/"><i>UFMG</i></a> e atualmente trabalho como Desenvolvedor na <a href="https://www.tagplus.com.br/"><i>TagPlus</i></a>.</h2>
 </div>
 
 
