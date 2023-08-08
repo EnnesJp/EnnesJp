@@ -32,7 +32,7 @@
 </div>
 
 <div>
-  <!--![Snake animation](https://github.com/ennesjp/ennesjp/blob/output/github-contribution-grid-snake.svg)-->
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ennesjp/ennesjp/blob/output-dark/github-contribution-grid-snake.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/ennesjp/ennesjp/blob/output/github-contribution-grid-snake.svg" />
