@@ -10,7 +10,7 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v2
         with:
           # github user name to read the contribution graph from (**required**)
           # using action context var `github.repository_owner` or specified user
@@ -28,7 +28,6 @@ jobs:
           outputs: |
             outputs/github-contribution-grid-snake.svg
             outputs-dark/github-contribution-grid-snake.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       
         env:
           # a github token is required to fetch the contribution calendar from github API
