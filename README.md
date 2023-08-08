@@ -25,16 +25,17 @@
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div><br>
 
-  ##
+##
   
-  <div> 
-    <a href="https://www.linkedin.com/in/joao-pedro-ennes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
- <div></div>
+<div> 
+  <a href="https://www.linkedin.com/in/joao-pedro-ennes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div>
   <!--![Snake animation](https://github.com/ennesjp/ennesjp/blob/output/github-contribution-grid-snake.svg)-->
   <picture>
-    <!--<source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />-->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ennesjp/ennesjp/blob/output-dark/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ennesjp/ennesjp/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://github.com/ennesjp/ennesjp/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 
