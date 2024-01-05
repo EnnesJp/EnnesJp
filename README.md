@@ -3,15 +3,16 @@
   <p align="center">Sou estudante de Sistemas de Informação da <a href="https://ufmg.br/"><i>UFMG</i></a> e atualmente trabalho como Desenvolvedor na <a href="https://www.nelogica.com.br/"><i>Nelogica</i></a>.</h2>
 </div>
 
-
+<!-- 
 <div align="center" diplay="flex">
   <a href="https://github.com/ennesjp">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ennesjp&count_private=true&show_icons=true&bg_color=30,000328,00458e&title_color=fff&text_color=fff&rank_icon=github"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennesjp&bg_color=30,000328,00458e&title_color=fff&text_color=fff&hide_border=false&layout=compact&hide=blade"/>
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ennesjp&hide=stars,prs,issues&count_private=true&show_icons=true&bg_color=30,1a2766,ae1b1e,fc9f32&title_color=fff&text_color=fff"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennesjp&bg_color=30,1a2766,ae1b1e,fc9f32&title_color=fff&text_color=fff&hide_border=false&layout=compact"/> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ennesjp&hide=stars,prs,issues&count_private=true&show_icons=true&bg_color=30,1a2766,ae1b1e,fc9f32&title_color=fff&text_color=fff"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennesjp&bg_color=30,1a2766,ae1b1e,fc9f32&title_color=fff&text_color=fff&hide_border=false&layout=compact"/> 
   </a>
 </div>
+-->
 
 <div align="center" valign="top"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
