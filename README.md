@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/joao-pedro-ennes/"><i>João Pedro Ennes</i></a> 😃️</h1>
-  <p align="center">Sou estudante de Sistemas de Informação da <a href="https://ufmg.br/"><i>UFMG</i></a> e atualmente trabalho como Desenvolvedor Full Stack na <a href="https://www.onfly.com.br/"><i>Onfly</i></a>.</h2>
+  <p align="center">Bacharel em Sistemas de Informação pela <a href="https://ufmg.br/"><i>UFMG</i></a> e Desenvolvedor Full Stack na <a href="https://onhappy.com.br/"><i>OnHappy</i></a>.</h2>
 </div>
 
 <!--
@@ -24,6 +24,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="CodeCov" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div><br>
 
 ##
