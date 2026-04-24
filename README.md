@@ -3,6 +3,17 @@
   <p align="center">Bacharel em Sistemas de Informação pela <a href="https://ufmg.br/"><i>UFMG</i></a> e Engenheiro de Software na <a href="https://nubank.com.br/"><i>Nubank</i></a>.</h2>
 </div>
 
+<!--
+<div align="center" diplay="flex">
+  <a href="https://github.com/ennesjp">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ennesjp&count_private=true&show_icons=true&bg_color=30,000328,00458e&title_color=fff&text_color=fff&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennesjp&bg_color=30,000328,00458e&title_color=fff&text_color=fff&hide_border=false&layout=compact&hide=blade"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ennesjp&hide=stars,prs,issues&count_private=true&show_icons=true&bg_color=30,1a2766,ae1b1e,fc9f32&title_color=fff&text_color=fff"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennesjp&bg_color=30,1a2766,ae1b1e,fc9f32&title_color=fff&text_color=fff&hide_border=false&layout=compact"/> 
+  </a>
+</div>
+-->
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30"/>
   &nbsp;&nbsp;&nbsp;
